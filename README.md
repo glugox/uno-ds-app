@@ -2,6 +2,11 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 ## Getting Started
 
+```bash
+npm i simplebar react-icons flatpickr
+npm i -D typescript @types/node @types/react@latest
+```
+
 First, run the development server:
 
 ```bash
